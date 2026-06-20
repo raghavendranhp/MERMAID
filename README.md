@@ -1,4 +1,5 @@
 # MERMAID
+```mermaid
 graph LR
     subgraph Core AI Assistant
         A[Orchestration Layer]
@@ -18,3 +19,4 @@ graph LR
     A <--> B & C
     A <--> D & E
     A <--> F & G
+```
